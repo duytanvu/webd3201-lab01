@@ -1,0 +1,5 @@
+Sign in failed at 12:55:10pm. Userjdoe@dcmail.ca sign in.
+Sign in success at 12:55:16pm. Userjdoe@dcmail.ca sign in.
+Log out success at 12:55:20pm. User sign in.
+Sign in failed at 12:55:22pm. Userjdoe@dcmail.ca sign in.
+Sign in success at 12:55:25pm. Userjdoe@dcmail.ca sign in.
